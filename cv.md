@@ -24,6 +24,19 @@ I am responsible, purposeful, organized, active, able to work in a team. My goal
 - CSS 
 - JS (elementary)
 
+### Code examples
+>function sum_pairs(arr, target) {
+>    let old = [];
+>    let result = [];
+>    arr.some((el) => {
+>        let found = old.find((oldEl) => oldEl + el === target);
+>        if (found) return result = [found, el];
+>        old.push(el);
+>    })
+>    return result;
+>}
+>sum_pairs([10, 5, 2, 3, 7, 5], 10);
+
 ##### Experience 
 *HTML Academy*
 
