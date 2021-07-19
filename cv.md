@@ -1,11 +1,12 @@
- # First Name, Last Name: 
- ## *Lizaveta Lipay*
+# First Name, Last Name
+
+## *Lizaveta Lipay*
 
 ### Contact Info
 
 #### Phone Number: *+375295397460*
 
-#### E-mail: (lizochka.lipay@gmail.com)
+#### E-mail: [lizochka.lipay@gmail.com]
 
 #### github: [@ElizavetaZdanovich](https://github.com/ElizavetaZdanovich)
 
