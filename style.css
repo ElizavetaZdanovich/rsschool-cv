@@ -1,0 +1,35 @@
+.page {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+header {
+    width: auto;
+    background-color: #e74ce3;
+    height: 200px;
+
+}
+
+#Lizaveta {
+    margin-right: 50px;
+     width: 150px;
+     border-radius: 50%;
+}
+#name {
+    float: right;
+    margin-right: 100px;
+    font-size:
+    margin-top:
+}
+hr{
+    height: 10px;
+    background-color: 
+}
+h3 {
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#code_example{
+    background-color: 
+}
